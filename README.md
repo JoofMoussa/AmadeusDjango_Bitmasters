@@ -1,1 +1,1 @@
-# AmadeusDjango_Bitmasters
+# Jappalma Project
